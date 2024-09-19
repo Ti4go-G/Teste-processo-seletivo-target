@@ -33,7 +33,7 @@ console.log(verificaChar('casA'));
 
 
 /**
- * Questão 3 -> 77
+ * Questão 3 -> soma = 77
 
 *Questão 4 -> a) 9 (soma 2 a cada numero)
 *b) 128 (o proximo numero é o anterior * 2)
